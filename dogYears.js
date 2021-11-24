@@ -1,6 +1,6 @@
 // Declaring my age
 const myAge = 24;
-// Declaring earlyYears
+// Declaring earlyYears  
 let earlyYears = 2;
 // multiplying earlyYears by 10.5
 earlyYears *= 10.5;
