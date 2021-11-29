@@ -17,3 +17,9 @@ calculates amount of sleep user is getting and compare it to their ideal ammount
 
 scopeActivity.js
 Activity completed on codecademy
+
+arrayPractice.js
+Modifying an array
+
+loopPractice.js
+find vowels from the input string and repeat u's and e's twice 
